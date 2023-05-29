@@ -1,0 +1,21 @@
+.a{
+    background-color: darksalmon;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#el2{
+    color:blue;
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#another{
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* you could have used .cooler for the font size and not had to add it to #another */
